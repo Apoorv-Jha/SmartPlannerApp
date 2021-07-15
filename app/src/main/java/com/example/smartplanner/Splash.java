@@ -1,4 +1,4 @@
-package com.example.smartplanner;
+    package com.example.smartplanner;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -19,7 +19,7 @@ public class Splash extends AppCompatActivity {
             public void run() {
                 try {
                     sleep(5000);
-                    Intent i=new Intent(Splash.this,MainActivity.class);
+                    Intent i=new Intent(Splash.this,OnBoarding.class);
                     startActivity(i);
 
                 } catch (InterruptedException e) {

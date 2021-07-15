@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">SmartPlanner</string>
+    <string name="get_started" />
+
+    //Headings
+    <string name="heading_one">Manage Your Time</string>
+    <string name="heading_two">Complete Tasks</string>
+    <string name="heading_three">Task Due Notifications</string>
+
+    //Description
+    <string name="desc_one">Manage your day and time usefully by adding new tasks and get the the notifications of due tasks</string>
+    <string name="desc_two">Give a tick mark to complete your task </string>
+    <string name="desc_three">Click on get started to start planning your day usefully!!</string>
+    <string name="manage_your_time">Manage Your Time</string>
+
 </resources>
